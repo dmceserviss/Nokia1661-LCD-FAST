@@ -1,4 +1,4 @@
-# This-is-fast-SPI-library-for-Nokia-displays-based-on-the-SPFD54124B-controller
+# Nokia1661_LCD_FAST
 The library was taken from the web site: https://sisoog.com and was modernized.
 1. Added font size selection.
 2. Added support for displaying Cyrillic characters.
