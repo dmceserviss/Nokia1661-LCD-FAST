@@ -15,13 +15,13 @@ it is also compatible with displays using other controllers found in various Nok
 
 Tested with the following displays ID:
 ~~~
-* 0x548066 - Controller: Orise SPFD54124B with the Nokia module's OEM firmware
-* 0x548466 - Controller: Ilitek ILI9163 (factory code Ilitek 0x54)
-* 0x548366 - Controller: Ilitek ILI9163 (factory code Ilitek 0x54)
-* 0xE38166 - Controller: Sitronix ST7735S with the Nokia module's OEM firmware (0xE3)
-* 0xE39066 - Controller: Sitronix ST7735S with the Nokia module's OEM firmware (0xE3)
-* 0x5C89F0 - Controller: Sitronix ST7735 / ST7735R / ST7735S (Sitronics factory code)
-* 0x7F8F8B - Non-standard OEM code. Compatible with the base profile ST7735 / ILI9163.
++ 0x548066 - Controller: Orise SPFD54124B with the Nokia module's OEM firmware
++ 0x548466 - Controller: Ilitek ILI9163 (factory code Ilitek 0x54)
++ 0x548366 - Controller: Ilitek ILI9163 (factory code Ilitek 0x54)
++ 0xE38166 - Controller: Sitronix ST7735S with the Nokia module's OEM firmware (0xE3)
++ 0xE39066 - Controller: Sitronix ST7735S with the Nokia module's OEM firmware (0xE3)
++ 0x5C89F0 - Controller: Sitronix ST7735 / ST7735R / ST7735S (Sitronics factory code)
++ 0x7F8F8B - Non-standard OEM code. Compatible with the base profile ST7735 / ILI9163.
 ~~~
 
 The archive contains a sketch for verifying functionality and reading the display ID.
