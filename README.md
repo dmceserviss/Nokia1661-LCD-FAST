@@ -74,3 +74,6 @@ SCK | 13
 SDA | 11
 CS |  10
 RST |  9
+
+
+https://www.youtube.com/watch?v=Z6BiVmwcyyc
